@@ -1,3 +1,5 @@
+##Clone of F20RO Coursework, with evolutionary robotics
+
 # F20RO-Group4
 * TASK 1: Create a BBR approach that solves the T-Maze Arena
 * TASK 2: Create an ER approach that solves the T-maze Arena
